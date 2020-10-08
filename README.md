@@ -44,6 +44,7 @@ Cadastro e importação de negocições criado com o objetivo de exercitar conce
 ## ⚙️ Funcionalidades
 
 - [x] Deve possibilitar o cadastro de negociações
+- [x] Deve possibilitar a ordenação de negociações por todas as colunas
 - [x] Deve possibilitar a importação de negociações manualmente e automaticamente
 - [x] Deve possibilitar a exclusão de todas negociações
 - [x] Deve possibilitar o envio de negociações para o servidor
