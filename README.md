@@ -31,7 +31,7 @@
 
 ## 💻 Sobre o projeto
 
-Cadastro e importação de negocições criado com o objetivo de exercitar conceitos avançandos de JavaScript.
+Cadastro e importação de negocições criado com o objetivo de exercitar conceitos avançados de JavaScript.
 
 ---
 
@@ -53,10 +53,10 @@ Cadastro e importação de negocições criado com o objetivo de exercitar conce
 ## 🎨 Layout
 
 - Tela principal
-<img alt="Landing Page" src=".client/readme/web1.jpg?raw=true">
+<img alt="Tela principal" src="./client/readme/web1.jpg?raw=true">
 
 - Envio para o servidor
-<img alt="Cadastro de aulas" src=".client/readme/web2.jpg?raw=true">
+<img alt="Envio servidor" src="./client/readme/web2.jpg?raw=true">
 
 ---
 
