@@ -31,7 +31,7 @@
 
 ## 💻 Sobre o projeto
 
-Cadastro e importação de negocições criado com o objetivo de exercitar conceitos avançados de JavaScript.
+Cadastro e importação de negociações criado com o objetivo de exercitar conceitos avançados de JavaScript.
 
 ---
 
