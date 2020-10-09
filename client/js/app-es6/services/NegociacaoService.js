@@ -13,7 +13,7 @@ export class NegociacaoService {
 
     return ConnectionFactory
       .getConnection()
-      .then(conexao => new NegociacaoDao(conexao))
+      .then(connection => new NegociacaoDao(connection))
       .then(dao => dao.adiciona(negociacao))
       .then(() => 'Negociação cadastrada com sucesso')
       .catch(erro => {
