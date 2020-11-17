@@ -83,7 +83,7 @@ $ yarn install
 # Execute a aplicação (na pasta server)
 $ yarn start
 
-# A aplicação web será aberta na porta:3000 - acesse http://localhost:3000
+# A aplicação web será aberta na porta 3000 - acesse http://localhost:3000
 
 ```
 
